@@ -1,21 +1,17 @@
-# DDBus
+# mobile
 
-Aplicación móvil de transporte urbano para Colectivos Ciudad de Ipiales S.A.
+A new Flutter project.
 
-## Proyecto
+## Getting Started
 
-DDBus permitirá consultar rutas, visualizar buses en tiempo real,
-consultar ocupación y recibir información relevante del servicio.
+This project is a starting point for a Flutter application.
 
-## Estado
+A few resources to get you started if this is your first Flutter project:
 
-Fase 0 - Preparación técnica del proyecto.
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-## Arquitectura
-
-- Mobile: Flutter
-- Backend: NestJS + TypeScript
-- Base de datos: PostgreSQL + PostGIS
-- Tiempo real: Redis + WebSockets
-- Admin: Next.js + TypeScript
-- Repositorio: GitHub
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
